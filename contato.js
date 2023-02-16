@@ -1,1 +1,1 @@
-console.log("Página de contato")
+console.log("Contato do site")
